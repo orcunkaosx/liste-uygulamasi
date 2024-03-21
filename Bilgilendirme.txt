@@ -1,0 +1,1 @@
+Sıralı Ve Sırasız Listelerin HTML Üzerinde Uygulamasını Yaptım.
